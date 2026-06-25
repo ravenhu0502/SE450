@@ -5,6 +5,7 @@ SE 450 Project
 Ruiwen's response:
 
 – Are you in a Group?
+
 no
 
 – If so, who else is in your group?
