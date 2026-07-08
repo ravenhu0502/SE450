@@ -18,7 +18,7 @@ This project is a course scheduler where you can log in as a student, a professo
 - Sign up to teach courses
 
 ## Administrators Functions
-- Create new classes
+- Create new courses
 - Assign rooms 
 - View faculty list
 
