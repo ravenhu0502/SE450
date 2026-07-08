@@ -2,21 +2,38 @@
 
 SE 450 Project
 
+## Project description:
 
-Project description:
+This project is a course scheduler where you can log in as a student, a professor or an administrator.
 
-This project is a class scheduler where you can log in as a student, a professor or an administrator.
+## Student Functions
 
-Students can: view all classes, view their class schedule, enroll in classes and drop classes
+- View all courses
+- View their course schedule
+- Enroll in courses
+- Drop courses
 
-Professors can: view their class schedule, sign up for classes they want to teach
+## Professors Functions
+- View their course schedule
+- Sign up to teach courses
 
-Administrators can: create new classes, assign rooms to classes, view faculty list
+## Administrators Functions
+- Create new classes
+- Assign rooms 
+- View faculty list
 
 
-Important classes that might be used in this project: class, student, professor, room, timeSlot, scheduler...
+## Important classes that might be used in this project: 
 
+- Course
+- Student
+- Professor
+- Room
+- TimeSlot
+- Scheduler
+- ...
 
+<br>
 Ruiwen's response:
 
 – Are you in a Group?
