@@ -8,4 +8,8 @@ public class Main {
 	
 	}
 	
+	public int target() {
+		return 1;
+	}
+	
 }

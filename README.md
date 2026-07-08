@@ -2,6 +2,20 @@
 
 SE 450 Project
 
+Project description:
+
+This project is a class scheduler where you can log in as a student, a professor or an administrator.
+
+Students can: view all classes, view their class schedule, enroll in classes and drop classes
+
+Professors can: view their class schedule, sign up for classes they want to teach
+
+Administrators can: create new classes, assign rooms to classes, view faculty list
+
+
+Important classes that might be used in this project: class, student, professor, room, timeSlot, scheduler...
+
+
 Ruiwen's response:
 
 – Are you in a Group?
@@ -36,3 +50,5 @@ yes
 example)
 
 src/main/Main.java
+
+
