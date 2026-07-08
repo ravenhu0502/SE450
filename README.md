@@ -6,7 +6,7 @@ SE 450 Project
 
 This project is a course scheduler where you can log in as a student, a professor or an administrator.
 
-## Student Functions
+## Students Functions
 
 - View all courses
 - View their course schedule
