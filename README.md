@@ -2,6 +2,7 @@
 
 SE 450 Project
 
+
 Project description:
 
 This project is a class scheduler where you can log in as a student, a professor or an administrator.
